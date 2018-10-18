@@ -1,0 +1,1 @@
+Implement a program to create a dictionary of students with Registration number and names. Perform the two operations, insert and delete. 
