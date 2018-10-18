@@ -1,1 +1,1 @@
-Implement a  program  for finding a square of a number. (without using standard api)
+Implement a program to find the square root of a function using newton-rapson method.
