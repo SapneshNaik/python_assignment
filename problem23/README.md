@@ -1,0 +1,1 @@
+Implement a program to write a line from the console to a file.

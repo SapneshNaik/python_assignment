@@ -1,0 +1,1 @@
+Implement a progam to convert the input string to inverse case(upper->lower, lower->upper) ( without using standard library)

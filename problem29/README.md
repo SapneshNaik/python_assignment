@@ -1,0 +1,1 @@
+In a given list find the total number of odd numbers, even numbers and their respetive sum and average.

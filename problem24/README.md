@@ -1,0 +1,1 @@
+Implement a program to read alternative characters in the file.
