@@ -1,5 +1,5 @@
 
-# babylonial method for finding square root of a number
+# babylonial method for finding square root of a number (derived from newton-rapson method)
 # 1 Start with an arbitrary positive start value x (the closer to the 
 #    root, the better).
 # 2 Initialize y = 1.
