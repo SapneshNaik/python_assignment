@@ -1,0 +1,1 @@
+Implement function to find the string length without using standard library
