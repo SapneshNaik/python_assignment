@@ -3,7 +3,7 @@ def print_pyramid(level):
 	spaces = 2 * (level) - 2
 	for i in range(level):
 		sp = " " * spaces
-		print(sp + "* " * i)
+		print(sp + ". " * i)
 		spaces -= 1
 
 
