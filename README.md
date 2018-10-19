@@ -17,13 +17,13 @@ Solutions to over 40 problem statements given by Mohan Sir
 12. Implement a program with lamda functions, for finding the area of circle, triangle, square.
 13. Implment a program with arithmetic functions with  case statements.
 14. Implement function to find the string length without using standard library.
-14. Implement a function to implement to finc the length of the list without standard library.
-15. Implement a program to print the elements of a list.
-16. Implement a program to get three values from CLA and print the sum of them.
-17. Implement a program using CLA for simple arithmetic calculator exmaple: operand operator operand ie. 10 + 10 / 30 * 20
-18. Implement a program for above using getopt.
-19. Implement a program for above using Argparse.
-20. Implement a program to find the euclidean distance of two points. 
+15. Implement a function to implement to finc the length of the list without standard library.
+16. Implement a program to print the elements of a list.
+17. Implement a program to get three values from CLA and print the sum of them.
+18. Implement a program using CLA for simple arithmetic calculator exmaple: operand operator operand ie. 10 + 10 / 30 * 20
+19. Implement a program for above using getopt.
+20. Implement a program for above using Argparse.
+21. Implement a program to find the euclidean distance of two points. 
 22. Implement a program to read a line in a file and print.
 23. Implement a program to write a line from the console to a file.
 24. Implement a program to read alternative characters in the file. 
