@@ -1,0 +1,1 @@
+Implement a program with lamda functions, for finding the area of circle, triangle, square.

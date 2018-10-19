@@ -1,0 +1,1 @@
+Implement a program with functions, for finding the area of circle, triangle, square.
