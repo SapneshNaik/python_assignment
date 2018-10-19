@@ -1,0 +1,1 @@
+Implement a program to get three values from CLA and print the sum of them.

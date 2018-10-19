@@ -1,0 +1,1 @@
+Implement a function to implement to finc the length of the list without standard library
