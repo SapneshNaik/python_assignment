@@ -1,0 +1,1 @@
+Implement a program for above using getopt.
