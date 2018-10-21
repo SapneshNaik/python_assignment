@@ -1,0 +1,1 @@
+Read the regno and name in the file, create a dictinary of these data

@@ -1,0 +1,1 @@
+Implement a program to check the total number of students.

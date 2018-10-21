@@ -1,0 +1,1 @@
+Create a file with patients personal records. Check for the names are properly entered. Means, no number or symbols allowed.

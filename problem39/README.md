@@ -1,0 +1,1 @@
+Find the average number of students from records.
