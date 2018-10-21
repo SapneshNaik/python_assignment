@@ -1,0 +1,1 @@
+Implement a python code to get username and password. Validate using regular experssions. Conditions: Username should not exceed 10 characters. It can't have symbols. Password should have one upper case, one lower case, one number , one symbol and length minimum of 6.
