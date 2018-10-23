@@ -1,0 +1,1 @@
+Implement a python program to find centroid of a triangle

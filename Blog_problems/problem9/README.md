@@ -1,0 +1,1 @@
+Implement a python program to print even characters in a file
