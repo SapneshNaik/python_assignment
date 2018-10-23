@@ -10,6 +10,8 @@
 
 ## run:
 
-	python app.py
+	FLASK_APP=main.py FLASK_DEBUG=1 python -m flask run
 
-	
+## working
+
+![screenshot](https://raw.githubusercontent.com/SapneshNaik/python_assignment/master/Lab_assigment/RTO_Management/flask_app/RTO_Managament_Application.png)	
