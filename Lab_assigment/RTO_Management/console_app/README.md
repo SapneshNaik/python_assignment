@@ -6,3 +6,7 @@ Install mysql connector for python
 
 Install Prettytable for tabular representation
 - pip3 install prettytable
+
+## run:
+
+	python main.py
