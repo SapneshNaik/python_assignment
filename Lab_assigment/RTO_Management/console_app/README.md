@@ -14,4 +14,4 @@ Install Prettytable for tabular representation
 	
 ## Working
 
-![screenshot](https://raw.githubusercontent.com/SapneshNaik/python_assignment/master/Lab_assigment/RTO_Management/console_app/console.png)
+![screenshot](https://raw.githubusercontent.com/SapneshNaik/python_assignment/master/Lab_assigment/RTO_Management/console_app/demo.gif)

@@ -14,4 +14,4 @@
 
 ## working
 
-![screenshot](https://raw.githubusercontent.com/SapneshNaik/python_assignment/master/Lab_assigment/RTO_Management/flask_app/RTO_Managament_Application.png)	
+![screenshot](https://raw.githubusercontent.com/SapneshNaik/python_assignment/master/Lab_assigment/RTO_Management/flask_app/demo.gif)	
